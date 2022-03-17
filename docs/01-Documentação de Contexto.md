@@ -1,13 +1,14 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O aplicativo irá consistir em uma lista de informações para as quais terão fim de ajudar o dia a dia, trazendo informações necessárias o tempo todo, e também facilitando trabalhos externos (fora das estações de trabalho).
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Para entender o aplicativo é necessário primeiro entender oque o técnico faz no seu dia a dia. O que pode várias em infinita coisa. Da mais simples a mais complicada serão listadas durante a semana a seguir com a rotina de trabalho, coletando informações úteis para conter no app. 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Mas no resumo, preciso de um aplicativo que me dê informações na hora, no celular, sem eu precisar ligar para alguém ou precisar ir a um lugar distante. Ou ficar horas procurando uma planilha ou coisa assim em um servidor. Enfim, é um aplicativo para melhorar a vida do técnico, evitando horas de procura. 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Desde já, o aplicativo deve ser bem estruturado, de maneira que seja fácil utilizá-lo, ou seja, cada informação deve estar bem localizada, para poupar tempo de procura dentro do app, utilizando o óbvio. Sabendo disso talvez seja uma boa ideia utilizar sempre tópicos clicáveis, abrindo novas bibliotecas de informações, assim trabalhando em um layout fácil de mexer e simples trazendo uma boa utilização.
+
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
