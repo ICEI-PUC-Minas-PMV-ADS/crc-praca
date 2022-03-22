@@ -1,6 +1,6 @@
 # Introdução
 
-O aplicativo irá consistir em uma lista de informações para as quais terão fim de ajudar o dia a dia, trazendo informações necessárias o tempo todo, e também facilitando trabalhos externos (fora das estações de trabalho).
+O aplicativo irá consistir em uma lista de informações para as quais terão fim de ajudar o dia a dia dos tecnicos da praça da liberdade, trazendo informações necessárias o tempo todo, e também facilitando trabalhos externos (fora das estações de trabalho).
 
 ## Problema  
 
