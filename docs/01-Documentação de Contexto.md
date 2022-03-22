@@ -9,7 +9,7 @@ Precisamos de um aplicativo que funcione como um HUB para o técnico da praça, 
 
 ## Objetivos
 
-Com base no que foi dito, nosso projeto se volta a ajudar os profissionais de TI da praça da Puc Minas, buscando facilitar e agilizar seu dia a dia, alguns dos objetivos mais pontuais são :
+Com base no que foi dito, nosso projeto se volta a ajudar os profissionais de TI da Puc Minas Unidade Praça da Liberdade, buscando facilitar e agilizar seu dia a dia, alguns dos objetivos mais pontuais são :
 
 * Possibilidade de acesso às planilhas em tempo real em qualquer lugar.
 * Exibição de caminho de mapeamento de rede para funcionários terceirizados.
