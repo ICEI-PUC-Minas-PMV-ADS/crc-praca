@@ -1,7 +1,7 @@
 
 # Metodologia
 
-##Relação de Ambientes de Trabalho
+## Relação de Ambientes de Trabalho
 O desenvolvimento deste trabalho ocorrerá com o auxílio de diversas ferramentas, que têm como objetivo principal a organização das tarefas e do fluxo do trabalho. A definição das ferramentas e o seu propósito são descritas a seguir:
 
 Repositório de código fonte: GitHub.
