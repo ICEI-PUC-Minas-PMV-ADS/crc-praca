@@ -7,15 +7,14 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
-
-![4d849ed21af00ddcc1f20e77b7203590](https://user-images.githubusercontent.com/83466411/159389610-7b62af16-6522-4b4f-abf7-641ee4a7072e.jpg)
-
 Ricardo tem 28 anos, trabalha como técnico de TI na universidade da puc, ele precisou deslocar-se para poder fazer a manutenção de uma impressora, deseja um aplicativo, que permita ele fazer mapeamentos de impressoras e configurações semelhantes, sem precisar se deslocar.
+![download](https://user-images.githubusercontent.com/83466411/159390657-be9820c5-5d4a-4768-a3a7-73c4f6ffc33d.jpg)
+![647a8471-ca59-4ee2-80ff-15c4e62aeb7e](https://user-images.githubusercontent.com/83466411/159390659-360d1768-029c-4d6d-a847-65fec9581eaa.jpg)
+
+Igor, é um técnico de campo, ele foi fazer um mapeamento de rede, mas não sabia o caminho do aplicativo movél, assim perdendo muito tempo, ele deseja um aplicativo que obtenha um registro de caminhos de mapeamentos de redes, para assim ficar mais prático para quando precisar fazer um mapeamento.
 
 ![download](https://user-images.githubusercontent.com/83466411/159390274-622eb778-219b-4b8a-b967-ad489370aa47.jpg)
 
-Igor, é um técnico de campo, ele foi fazer um mapeamento de rede, mas não sabia o caminho do aplicativo movél, assim perdendo muito tempo, ele deseja um aplicativo que obtenha um registro de caminhos de mapeamentos de redes, para assim ficar mais prático para quando precisar fazer um mapeamento.
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
