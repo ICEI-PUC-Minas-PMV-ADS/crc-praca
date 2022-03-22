@@ -8,12 +8,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-(https://user-images.githubusercontent.com/83466411/159389610-7b62af16-6522-4b4f-abf7-641ee4a7072e.jpg)
+![4d849ed21af00ddcc1f20e77b7203590](https://user-images.githubusercontent.com/83466411/159389610-7b62af16-6522-4b4f-abf7-641ee4a7072e.jpg)
+
 Ricardo tem 28 anos, trabalha como técnico de TI na universidade da puc, ele precisou deslocar-se para poder fazer a manutenção de uma impressora, deseja um aplicativo, que permita ele fazer mapeamentos de impressoras e configurações semelhantes, sem precisar se deslocar.
 
-(https://user-images.githubusercontent.com/83466411/159390274-622eb778-219b-4b8a-b967-ad489370aa47.jpg)
-Igor, é um técnico de campo, ele foi fazer um mapeamento de rede, mas não sabia o caminho do aplicativo movél, assim perdendo muito tempo, ele deseja um aplicativo que obtenha um registro de caminhos de mapeamentos de redes, para assim ficar mais prático para quando precisar fazer um mapeamento.
+![download](https://user-images.githubusercontent.com/83466411/159390274-622eb778-219b-4b8a-b967-ad489370aa47.jpg)
 
+Igor, é um técnico de campo, ele foi fazer um mapeamento de rede, mas não sabia o caminho do aplicativo movél, assim perdendo muito tempo, ele deseja um aplicativo que obtenha um registro de caminhos de mapeamentos de redes, para assim ficar mais prático para quando precisar fazer um mapeamento.
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
