@@ -51,6 +51,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Permitir acesso a planilhas da praça em tempo real em qualquer lugar.    | ALTA |
 |RF-003| Permitir contatos apenas presentes em um endpoint na palma da mão.    | ALTA |
+|RF-004|	Necessidade de ter caminho de mapeamento de rede para funcionários terceiros. | ALTA |
+|RF-005| Necessidade de ter tutoriais de instalação para a utilização de técnico . | ALTA |
+|RF-005|	Necessidade de ter tutorias para mandar para alunos via whatsapp. | ALTA |
+|RF-006| Necessidade de ter relações de IP e planilhas de IP em tempo real para evitar | ALTA |
+|RF-007|	Meios de controle de equipamentos para evitar situações de esquecimento ou perca. | MEDIA |
+|RF-008| Notas de lembretes compartilhados com a equipe para futuros atendimentos.| ALTA |
+|RF-009| Lembretes de atividades realizadas, para registro de atividade interna. | ALTA |
+|RF-010|	Caminhos para mapeamentos de impressoras e configurações semelhantes | ALTA |
+|RF-011| Registro de usuários e senhas dos técnicos | ALTA |
+
+
+
 
 ### Requisitos não Funcionais
 
