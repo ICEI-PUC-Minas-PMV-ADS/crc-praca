@@ -49,7 +49,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-002| Permitir acesso a planilhas da praça em tempo real em qualquer lugar.    | ALTA |
+|RF-003| Permitir contatos apenas presentes em um endpoint na palma da mão.    | ALTA |
 
 ### Requisitos não Funcionais
 
