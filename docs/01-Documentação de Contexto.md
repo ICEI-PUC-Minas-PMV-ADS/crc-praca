@@ -25,7 +25,7 @@ Com base no que foi dito, nosso projeto se volta a ajudar os profissionais de TI
 
 ## Justificativa
 
-Facilitar o trabalho dos nossos técnicos para melhoria de rendimento no trabalho.
+Facilitar o trabalho dos nossos técnicos para melhoria de rendimento no trabalho. alem de deixar atendimentos a alunos e colaboradores mais agil, diminuir o tempo gasto durante os atendimentos 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
