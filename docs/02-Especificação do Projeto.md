@@ -9,7 +9,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 Ricardo tem 28 anos, trabalha como técnico de TI na universidade da puc, ele precisou deslocar-se para poder fazer a manutenção de uma impressora, deseja um aplicativo, que permita ele fazer mapeamentos de impressoras e configurações semelhantes, sem precisar se deslocar.
 ![download](https://user-images.githubusercontent.com/83466411/159390657-be9820c5-5d4a-4768-a3a7-73c4f6ffc33d.jpg)
-![647a8471-ca59-4ee2-80ff-15c4e62aeb7e](https://user-images.githubusercontent.com/83466411/159390659-360d1768-029c-4d6d-a847-65fec9581eaa.jpg)
 
 Igor, é um técnico de campo, ele foi fazer um mapeamento de rede, mas não sabia o caminho do aplicativo movél, assim perdendo muito tempo, ele deseja um aplicativo que obtenha um registro de caminhos de mapeamentos de redes, para assim ficar mais prático para quando precisar fazer um mapeamento.
 
