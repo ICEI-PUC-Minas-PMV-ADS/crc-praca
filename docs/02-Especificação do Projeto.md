@@ -7,6 +7,8 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+José é um estudante do ensino médio, e estuda arduamente para o Enem, mas são muitas questões a serem estudadas,e com isso ele não consegue controlar oque já foi estudado,deseja um aplicativo em que ele consiga cadastras tarefas.
+
 Ricardo tem 28 anos, trabalha como técnico de TI na universidade da puc, ele precisou deslocar-se para poder fazer a manutenção de uma impressora, deseja um aplicativo, que permita ele fazer mapeamentos de impressoras e configurações semelhantes, sem precisar se deslocar.
 ![download](https://user-images.githubusercontent.com/83466411/159390657-be9820c5-5d4a-4768-a3a7-73c4f6ffc33d.jpg)
 
