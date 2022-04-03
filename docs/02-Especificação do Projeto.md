@@ -8,13 +8,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-![Persona Ronaldo](https://user-images.githubusercontent.com/83379675/161451262-dea9d120-ca14-46bb-86a5-140d23c86bd8.png)
+![Ronaldo](https://user-images.githubusercontent.com/83379675/161451262-dea9d120-ca14-46bb-86a5-140d23c86bd8.png)
 
 ![Igor](https://user-images.githubusercontent.com/83466411/161452300-631d3941-5fb4-490a-8f97-be3ff99e14f7.png)
 
 ![Ricardo](https://user-images.githubusercontent.com/83466411/161451688-60848933-23f4-4631-b967-23b2d97194a8.png)
 
 ![José](https://user-images.githubusercontent.com/83466411/161452241-c695357a-e618-4977-96c8-fc63338cbccf.png)
+
+![Ana Paula](https://user-images.githubusercontent.com/83466411/161452638-e3b90439-8346-488d-b151-cd0725900d16.png)
 
 ## Histórias de Usuários
 
