@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ![Persona Ronaldo](https://user-images.githubusercontent.com/83379675/161451262-dea9d120-ca14-46bb-86a5-140d23c86bd8.png)
 
-![Sem título](https://user-images.githubusercontent.com/83466411/161451416-3d4ca11a-92b4-4349-b464-063a4710f5f2.png)
+![Igor](https://user-images.githubusercontent.com/83466411/161451716-0e16162e-0e75-49c3-9b9a-c53d011a360c.png)
 
 ![Sem título](https://user-images.githubusercontent.com/83466411/161451688-60848933-23f4-4631-b967-23b2d97194a8.png)
 
