@@ -22,10 +22,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](![unknown](https://user-images.githubusercontent.com/83379675/161449889-02f5ff85-caf3-4bc0-bf40-3612354cb8ec.png)
-)
+![Exemplo de Wireframe](https://user-images.githubusercontent.com/83379675/161449889-02f5ff85-caf3-4bc0-bf40-3612354cb8ec.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+No canto esquerdo, onde esta a pagina de login, como pode ser visto não á local para se increver, isso por que o App sera de uso exclusivo da empresa, sendo necessario um ADM para criar o campo.
+No Canto direito, pode se ver ja uma gama de pastas, na qual todas tem um conteudo, semelhamnte ao Windows Explore, cada uma leva a um local na qual possui informações para o serviço do tecnico, tambem é possivel ver os botão para adicionar conteudo, e outro para efetuar uma pesquisa.
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
