@@ -10,18 +10,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ![Persona Ronaldo](https://user-images.githubusercontent.com/83379675/161451262-dea9d120-ca14-46bb-86a5-140d23c86bd8.png)
 
-
 ![Sem título](https://user-images.githubusercontent.com/83466411/161451416-3d4ca11a-92b4-4349-b464-063a4710f5f2.png)
 
+![Sem título](https://user-images.githubusercontent.com/83466411/161451688-60848933-23f4-4631-b967-23b2d97194a8.png)
 
 José é um estudante do ensino médio, e estuda arduamente para o Enem, mas são muitas questões a serem estudadas,e com isso ele não consegue controlar oque já foi estudado,deseja um aplicativo em que ele consiga cadastras tarefas.
 
 Ricardo tem 28 anos, trabalha como técnico de TI na universidade da puc, ele precisou deslocar-se para poder fazer a manutenção de uma impressora, deseja um aplicativo, que permita ele fazer mapeamentos de impressoras e configurações semelhantes, sem precisar se deslocar.
 ![download](https://user-images.githubusercontent.com/83466411/159390657-be9820c5-5d4a-4768-a3a7-73c4f6ffc33d.jpg)
 
-Igor, é um técnico de campo, ele foi fazer um mapeamento de rede, mas não sabia o caminho do aplicativo movél, assim perdendo muito tempo, ele deseja um aplicativo que obtenha um registro de caminhos de mapeamentos de redes, para assim ficar mais prático para quando precisar fazer um mapeamento.
-
-![download](https://user-images.githubusercontent.com/83466411/159390274-622eb778-219b-4b8a-b967-ad489370aa47.jpg)
 
 
 ## Histórias de Usuários
