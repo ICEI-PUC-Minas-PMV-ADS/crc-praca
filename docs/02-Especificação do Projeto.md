@@ -12,14 +12,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ![Igor](https://user-images.githubusercontent.com/83466411/161451716-0e16162e-0e75-49c3-9b9a-c53d011a360c.png)
 
-![Sem título](https://user-images.githubusercontent.com/83466411/161451688-60848933-23f4-4631-b967-23b2d97194a8.png)
+![Ricardo](https://user-images.githubusercontent.com/83466411/161451688-60848933-23f4-4631-b967-23b2d97194a8.png)
 
-José é um estudante do ensino médio, e estuda arduamente para o Enem, mas são muitas questões a serem estudadas,e com isso ele não consegue controlar oque já foi estudado,deseja um aplicativo em que ele consiga cadastras tarefas.
-
-Ricardo tem 28 anos, trabalha como técnico de TI na universidade da puc, ele precisou deslocar-se para poder fazer a manutenção de uma impressora, deseja um aplicativo, que permita ele fazer mapeamentos de impressoras e configurações semelhantes, sem precisar se deslocar.
-![download](https://user-images.githubusercontent.com/83466411/159390657-be9820c5-5d4a-4768-a3a7-73c4f6ffc33d.jpg)
-
-
+![José](https://user-images.githubusercontent.com/83466411/161452241-c695357a-e618-4977-96c8-fc63338cbccf.png)
 
 ## Histórias de Usuários
 
