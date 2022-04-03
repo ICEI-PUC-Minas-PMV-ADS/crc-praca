@@ -16,7 +16,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ![José](https://user-images.githubusercontent.com/83466411/161452241-c695357a-e618-4977-96c8-fc63338cbccf.png)
 
-![Ana Paula](https://user-images.githubusercontent.com/83466411/161452638-e3b90439-8346-488d-b151-cd0725900d16.png)
+![Ana Paula](https://user-images.githubusercontent.com/83466411/161452663-1bde392e-5819-47f2-ac9c-a8af8989fadd.png)
 
 ## Histórias de Usuários
 
