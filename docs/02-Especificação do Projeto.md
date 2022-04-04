@@ -113,6 +113,8 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ![Captura de tela 2022-04-03 203726](https://user-images.githubusercontent.com/82723489/161453902-1327fea9-6aa4-4a34-8601-82e1a0875d2b.png)
 
+## Gerenciamento de equipe 
+
 
 ### Gestão de orçamento
 
