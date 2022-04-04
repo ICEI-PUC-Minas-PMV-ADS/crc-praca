@@ -115,3 +115,6 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 
 ### Gestão de orçamento
+
+![Gestão Orçamento](https://user-images.githubusercontent.com/83379675/161454876-835cf4f9-4976-48ea-8a5d-02b20d45a72a.png)
+
