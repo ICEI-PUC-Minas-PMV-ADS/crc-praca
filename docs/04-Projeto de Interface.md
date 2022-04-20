@@ -26,6 +26,12 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 No canto esquerdo, onde esta a pagina de login, como pode ser visto não á local para se increver, isso por que o App sera de uso exclusivo da empresa, sendo necessario um ADM para criar o campo.
 No Canto direito, pode se ver ja uma gama de pastas, na qual todas tem um conteudo, semelhamnte ao Windows Explore, cada uma leva a um local na qual possui informações para o serviço do tecnico, tambem é possivel ver os botão para adicionar conteudo, e outro para efetuar uma pesquisa.
+
+![Captura de tela 2022-04-20 161912](https://user-images.githubusercontent.com/83379675/164306678-913ad21d-ded0-4a2c-978c-36461702633d.png)
+
+
+No Canto esquerdo, temos a ideia de subpastas, cada uma levando a mais uma subpastas ou diretamente ao propio conteudo do App, e ja no canto direito, temos ai a representação de como um conteudo seria apresentado, sera possivel adicionar, campos de texto como mostrado no exemplo e tambem fotos, e links levando a serviços externos, como por explo uma planilha de controle especifica.
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
